@@ -6,9 +6,9 @@ option = prompt(`
     `)
 
     const imovel = {
-        nome: 'yasmin',
-        quartos: 4,
-        banheiros: 2,
-        garagem:'sim'
+       imóvel nome: 'yasmin',
+       imóvel quartos: 4,
+        imóvel banheiros: 2,
+       imóvel garagem:'sim'
     }
   
